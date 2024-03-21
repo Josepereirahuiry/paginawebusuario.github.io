@@ -1,0 +1,72 @@
+body {
+  background: #705f93;
+  color:#fff;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.titulo {
+  text-align: center;
+}
+
+.sbttle {
+  
+}
+
+.lista {
+  color: #441b11;
+}
+
+a {
+  text-decoration: none;
+  color: #22C2B8;
+}
+
+.vrs-1, 
+.vrs-2,
+.vrs-3,
+.vrs-4,
+.vrs-5,
+.vrs-6,
+.vrs-7,
+.vrs-8,
+.vrs-9,
+.vrs-10,
+.vrs-11,
+.vrs-12 {
+  text-align: center;
+  border-radius: 15px;
+  padding: 20px;
+  margin-bottom: 50px;
+}
+
+.clr-1 {
+  background: #ebbbe9;
+}
+
+.clr-2 {
+  background: #e8e4f1;
+}
+
+.clr-3 {
+  background: #b4e4f5;
+}
+
+.clr-4 {
+  background: #8fcff0;
+}
+
+.clr-5 {
+  background: #8eafd4;
+}
+
+.clr-6 {
+  background: #e9c4ea;
+}
+
+article h2 {
+  color: #28193d;
+}
+article p {
+  font-family: monospace;
+  color: #10091d;
+}
